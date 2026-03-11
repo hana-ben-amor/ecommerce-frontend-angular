@@ -1,0 +1,20 @@
+.top-bar{
+    background-color: #D0D0D0;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    color:black;
+}
+
+.top-bar span{
+    font-size: 13px;
+}
+.top-bar i.fab {
+  cursor: pointer;
+  transition: color 0.3s ease;
+}
+
+.top-bar i.fab:hover {
+  color: #7FAD39; /* hover color */
+}
